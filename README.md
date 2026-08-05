@@ -1,4 +1,4 @@
-# AI Projects
+# ML Projects
 
 a collection of small AI and simulation projects. most are a single file; the two big ones
 are split into three. they're meant to be read as much as run — no framework, no config
@@ -46,4 +46,4 @@ each folder has its own README explaining the idea and the parts worth knowing a
 - run modes are a bare word: `uv run main.py train`, `uv run main.py play`
 - no comments — if something needs explaining it goes in the README
 - datasets and model outputs are gitignored
-# ML-projects
+

@@ -1,0 +1,18 @@
+.venv/
+__pycache__/
+.DS_Store
+*.log
+
+data
+outputs/
+generated/
+
+Chess Engine/engine
+Chess Engine/results/
+Chess Engine/cutechess/
+*.dSYM/
+
+*.pt
+*.pth
+*.pkl
+!PPO_Snake/policy.pth
